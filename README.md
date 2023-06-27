@@ -1,12 +1,10 @@
 ```
-
      ██╗  ██╗███████╗██╗     ██╗      ██████╗     ████████╗██╗  ██╗███████╗██████╗ ███████╗
      ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝
      ███████║█████╗  ██║     ██║     ██║   ██║       ██║   ███████║█████╗  ██████╔╝█████╗  
      ██╔══██║██╔══╝  ██║     ██║     ██║   ██║       ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝  
      ██║  ██║███████╗███████╗███████╗╚██████╔╝       ██║   ██║  ██║███████╗██║  ██║███████╗
      ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
-                                                                                           
 ```
 My name is Denis, <br />
 I'm Juniour Backend Developer. 
@@ -43,6 +41,9 @@ Job status: **Open for hire** (**[My CV](https://cv.hexlet.io/resumes/2539)**)
 * [Practice with API](https://github.com/DREU007/work-with-api) - Visualization of data from HackerNews and Github APIs.
 * [Data Visualization](https://github.com/DREU007/datavisualisation) - Mathplot and Plotly visualization practice.
 * [Alien Invasion](https://github.com/DREU007/alien_invasion) - My version of famous Space Invaders game.
+
+![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
+
 <!--
 **DREU007/DREU007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
