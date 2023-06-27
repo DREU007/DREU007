@@ -19,7 +19,7 @@ Job status: **Open for hire** (**[My CV](https://cv.hexlet.io/resumes/2539)**)
 
 
 #### Education:
-* [State University of Maritime and Inland Shipping](https://gumrf.ru/en/) - Navigational Officer
+[State University of Maritime and Inland Shipping](https://gumrf.ru/en/) - Navigational Officer
 
 #### Aditional Education:
 * [Hexlet](https://ru.hexlet.io/) - Python Developer (Ongoing)
@@ -42,6 +42,7 @@ Job status: **Open for hire** (**[My CV](https://cv.hexlet.io/resumes/2539)**)
 * [Data Visualization](https://github.com/DREU007/datavisualisation) - Mathplot and Plotly visualization practice.
 * [Alien Invasion](https://github.com/DREU007/alien_invasion) - My version of famous Space Invaders game.
 
+#### Stats:
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
 <!--
