@@ -1,25 +1,27 @@
 ```
-/***
- *    ██╗  ██╗███████╗██╗     ██╗      ██████╗     ████████╗██╗  ██╗███████╗██████╗ ███████╗
- *    ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝
- *    ███████║█████╗  ██║     ██║     ██║   ██║       ██║   ███████║█████╗  ██████╔╝█████╗  
- *    ██╔══██║██╔══╝  ██║     ██║     ██║   ██║       ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝  
- *    ██║  ██║███████╗███████╗███████╗╚██████╔╝       ██║   ██║  ██║███████╗██║  ██║███████╗
- *    ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
- *                                                                                          
- */
+
+     ██╗  ██╗███████╗██╗     ██╗      ██████╗     ████████╗██╗  ██╗███████╗██████╗ ███████╗
+     ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝
+     ███████║█████╗  ██║     ██║     ██║   ██║       ██║   ███████║█████╗  ██████╔╝█████╗  
+     ██╔══██║██╔══╝  ██║     ██║     ██║   ██║       ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝  
+     ██║  ██║███████╗███████╗███████╗╚██████╔╝       ██║   ██║  ██║███████╗██║  ██║███████╗
+     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+                                                                                           
 ```
+My name is Denis, <br />
+I'm Juniour Backend Developer. 
 
----
-Job status: **Open for hire**
+#### BIO:
+I've graduated SUMIS in St.Petersburg, Russia as Navigational Officer, been working onboard and left the maritime industry to pursue a career as a Python developer.
+My current goal is to promote my skills with a help of Hexlet online school.
 
 
-I'm Juniour Backend Developer, left the maritime industry to pursue a career as a Python developer.
+Job status: **Open for hire** (**[My CV](https://cv.hexlet.io/resumes/2539)**)
 
-**[My CV](https://cv.hexlet.io/resumes/2539)**
+
 
 #### Education:
-* State University of Maritime and Inland Shipping - Navigational Officer
+* [State University of Maritime and Inland Shipping](https://gumrf.ru/en/) - Navigational Officer
 
 #### Aditional Education:
 * [Hexlet](https://ru.hexlet.io/) - Python Developer (Ongoing)
@@ -35,6 +37,7 @@ I'm Juniour Backend Developer, left the maritime industry to pursue a career as 
 
 
 #### My projects:
+
 * [Gendiff](https://github.com/DREU007/gendiff) - CLI tool to generate difference between 2 files.
 * [Brain Games](https://github.com/DREU007/brain-games) - A collection of games for a mind.
 * [Practice with API](https://github.com/DREU007/work-with-api) - Visualization of data from HackerNews and Github APIs.
