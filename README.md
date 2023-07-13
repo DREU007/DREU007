@@ -27,11 +27,16 @@ Job status: **Open for hire** (**[My CV](https://cv.hexlet.io/resumes/2539)**)
 * [Python Crash Course](https://nostarch.com/python-crash-course-3rd-edition) - Self Education
 
 #### Stack:
+<!--
+https://badges.pages.dev/
+-->
 ![Pyhon](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+
 
 
 #### My projects:
