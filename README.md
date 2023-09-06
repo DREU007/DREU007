@@ -1,10 +1,10 @@
 ```
-     ██╗  ██╗███████╗██╗     ██╗      ██████╗     ████████╗██╗  ██╗███████╗██████╗ ███████╗
-     ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝
-     ███████║█████╗  ██║     ██║     ██║   ██║       ██║   ███████║█████╗  ██████╔╝█████╗  
-     ██╔══██║██╔══╝  ██║     ██║     ██║   ██║       ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝  
-     ██║  ██║███████╗███████╗███████╗╚██████╔╝       ██║   ██║  ██║███████╗██║  ██║███████╗
-     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+██╗  ██╗███████╗██╗     ██╗      ██████╗     ████████╗██╗  ██╗███████╗██████╗ ███████╗
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝
+███████║█████╗  ██║     ██║     ██║   ██║       ██║   ███████║█████╗  ██████╔╝█████╗  
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║       ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝  
+██║  ██║███████╗███████╗███████╗╚██████╔╝       ██║   ██║  ██║███████╗██║  ██║███████╗
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 My name is Denis, <br />
 I'm Juniour Backend Developer. 
@@ -24,6 +24,7 @@ Job status: **Open for hire** (**[My CV](https://cv.hexlet.io/resumes/2539)**)
 #### Aditional Education:
 * [Hexlet](https://ru.hexlet.io/) - Python Developer (Ongoing)
 * [FoxmindEd](https://foxminded.ua/) - Python Start
+* [Learn to Code by Solving Problems](https://nostarch.com/learn-code-solving-problems) - Self Education
 * [Python Crash Course](https://nostarch.com/python-crash-course-3rd-edition) - Self Education
 
 #### Stack:
@@ -31,16 +32,17 @@ Job status: **Open for hire** (**[My CV](https://cv.hexlet.io/resumes/2539)**)
 https://badges.pages.dev/
 -->
 ![Pyhon](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 
 
 
 #### My projects:
 
+* [Seo Page Analyzer](https://github.com/DREU007/seo-page-analyzer) - A web tool to check Serch Engine Optimization support of a given URL.
 * [Gendiff](https://github.com/DREU007/gendiff) - CLI tool to generate difference between 2 files.
 * [Brain Games](https://github.com/DREU007/brain-games) - A collection of games for a mind.
 * [Practice with API](https://github.com/DREU007/work-with-api) - Visualization of data from HackerNews and Github APIs.
