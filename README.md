@@ -49,6 +49,12 @@ https://badges.pages.dev/
 * [Data Visualization](https://github.com/DREU007/datavisualisation) - Mathplot and Plotly visualization practice.
 * [Alien Invasion](https://github.com/DREU007/alien_invasion) - My version of famous Space Invaders game.
 
+#### Testcases:
+
+* [R4C Testcase](https://github.com/DREU007/r4c-testcase) - Django testcase. Features: JSON report API-endpoint handler, direct link generated Excel report, order availability email notifier.
+
+
+
 #### Stats:
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
