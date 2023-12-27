@@ -58,6 +58,8 @@ https://badges.pages.dev/
 
 
 #### Stats:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
 <!--
