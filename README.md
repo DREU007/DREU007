@@ -58,6 +58,7 @@ https://badges.pages.dev/
 
 
 #### Stats:
+<!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2058%20mins-blue)
 
