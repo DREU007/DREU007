@@ -25,4 +25,6 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_OS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_TIMELINE: "False"
           DEBUG_LOGGING: "False"
+          
