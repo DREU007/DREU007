@@ -79,12 +79,8 @@ postcards-research       8 hrs 52 mins       ███████████�
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/DREU007/DREU007/main/assets/bar_graph.png)
-
-
- Last Updated on 18/01/2024 13:29:54 UTC
+ Last Updated on 18/01/2024 13:32:02 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
