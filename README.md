@@ -60,27 +60,26 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 28 mins       ███████████████████████░░   93.68 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-CSV                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   8 hrs 47 mins       ███████████████████████░░   93.90 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+CSV                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-postcards-research       8 hrs 52 mins       █████████████████████████   98.10 % 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+postcards-research       9 hrs 11 mins       █████████████████████████   98.16 % 
+Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 
 
- Last Updated on 19/01/2024 18:38:51 UTC
+ Last Updated on 20/01/2024 18:37:12 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
