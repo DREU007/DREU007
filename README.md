@@ -60,28 +60,27 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 55 mins        ██████████████░░░░░░░░░░░   57.43 % 
-Markdown                 50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-Vim Script               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-TOML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Python                   2 hrs 9 mins        ████████████████░░░░░░░░░   62.49 % 
+Markdown                 50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Vim Script               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 8 mins        ███████████████████████░░   93.57 % 
-python-project-52        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-postcards-research       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Unknown Project          3 hrs 14 mins       ████████████████████████░   94.24 % 
+python-project-52        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 ```
 
 
- Last Updated on 10/02/2024 18:37:44 UTC
+ Last Updated on 11/02/2024 18:37:11 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
