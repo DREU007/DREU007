@@ -60,7 +60,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,20 +68,20 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 30 mins      ████████████████████████░   95.57 % 
-HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Python                   12 hrs 49 mins      ████████████████████████░   95.67 % 
+HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-volunteer_rescue         13 hrs              █████████████████████████   99.31 % 
-python-project-52        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+volunteer_rescue         13 hrs 19 mins      █████████████████████████   99.33 % 
+python-project-52        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 20/05/2024 18:38:52 UTC
+ Last Updated on 21/05/2024 18:38:43 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
