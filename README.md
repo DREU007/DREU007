@@ -67,7 +67,7 @@ https://badges.pages.dev/
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -88,7 +88,7 @@ mqtt_python              7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/07/2024 18:38:43 UTC
+ Last Updated on 22/07/2024 18:40:51 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
