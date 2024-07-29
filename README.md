@@ -14,7 +14,7 @@ I've graduated SUMIS in St.Petersburg, Russia as Navigational Officer, been work
 My current goal is to promote my skills with a help of Hexlet online school.
 
 
-Job status: **Open for hire** (**[My CV](https://www.linkedin.com/in/dreu007/)**)
+<!-- Job status: **Open for hire** (**[My CV](https://www.linkedin.com/in/dreu007/)**) -->
 
 
 
@@ -42,7 +42,7 @@ https://badges.pages.dev/
 
 
 #### My projects:
-
+* [Volunteer Rescue](https://github.com/DREU007/volunteer_recue) - A web dashboard for management volunteer search and resue (SAR) operations with integrated telegram bot.
 * [Task Manager](https://github.com/DREU007/django-task-manager) - A web tool to handle tasks within registered users.
 * [Seo Page Analyzer](https://github.com/DREU007/seo-page-analyzer) - A web tool to check Serch Engine Optimization support of a given URL.
 * [Gendiff](https://github.com/DREU007/gendiff) - CLI tool to generate difference between 2 files.
