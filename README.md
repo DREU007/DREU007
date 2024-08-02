@@ -65,7 +65,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -73,20 +73,17 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 3 mins         █████████████░░░░░░░░░░░░   50.56 % 
-Bash                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-Python                   29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-Vim Script               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   23 mins             ████████████████████████░   95.97 % 
+Vim Script               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🐱‍💻 Projects: 
-irrigation_controller    1 hr 35 mins        ███████████████████░░░░░░   75.79 % 
-Unknown Project          24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-eto-application-server   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Unknown Project          24 mins             █████████████████████████   99.32 % 
+irrigation_controller    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 
- Last Updated on 01/08/2024 18:40:52 UTC
+ Last Updated on 02/08/2024 18:40:57 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
