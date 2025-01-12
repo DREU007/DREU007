@@ -7,15 +7,15 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 My name is Denis, <br />
-I'm Juniour Backend Developer. 
+I'm Software Developer. 
 
 #### BIO:
 I've graduated SUMIS in St.Petersburg, Russia as Navigational Officer, been working onboard and left the maritime industry to pursue a career as a Python developer.
-My current goal is to promote my skills with a help of Hexlet online school.
 
 
 <!-- Job status: **Open for hire** (**[My CV](https://www.linkedin.com/in/dreu007/)**) -->
-
+#### Employment:
+* [Trigger Systems](https://trigger.systems/) - Software Developer (2024 - Present)
 
 
 #### Education:
@@ -52,7 +52,7 @@ https://badges.pages.dev/
 * [Alien Invasion](https://github.com/DREU007/alien_invasion) - My version of famous Space Invaders game.
 
 
-#### I'm working on:
+<!--- #### I'm working on:
 
 * [Volunteer SAR (Search And Rescue)](https://github.com/DREU007/volunteer_recue) - A web app for management SAR operations by volunteers.
 
