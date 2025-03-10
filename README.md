@@ -73,18 +73,14 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 35 mins       █████████████████████████   99.13 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-revobot-lora-server      5 hrs 36 mins       █████████████████████████   99.27 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-db_python                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/03/2025 18:38:59 UTC
+ Last Updated on 10/03/2025 18:46:20 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
