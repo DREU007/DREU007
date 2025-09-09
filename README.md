@@ -65,7 +65,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C325%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C325%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -73,14 +73,15 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 56 mins       █████████████████████████   100.00 % 
+Python                   3 hrs 44 mins       █████████████████████████   99.99 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-project1                 2 hrs 56 mins       █████████████████████████   100.00 % 
+project1                 3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/09/2025 18:47:57 UTC
+ Last Updated on 09/09/2025 18:45:43 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
