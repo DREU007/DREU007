@@ -65,30 +65,10 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C339%20hrs%2016%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   3 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.96 % 
-YAML                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Bash                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-textmate                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-
-🐱‍💻 Projects: 
-irrigation-server-revobot3 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   39.14 % 
-irrigation-generator     1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-WebApp                   1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Unknown Project          1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-pivot-revo-server        53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 
- Last Updated on 19/09/2025 18:47:34 UTC
+ Last Updated on 20/09/2025 18:43:04 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
