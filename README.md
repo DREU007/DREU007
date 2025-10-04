@@ -65,6 +65,8 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C372%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -86,7 +88,7 @@ irrigation-server-revobot13 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 03/10/2025 18:47:34 UTC
+ Last Updated on 04/10/2025 18:44:16 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
