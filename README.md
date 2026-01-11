@@ -13,9 +13,10 @@ I'm Software Developer.
 I've graduated SUMIS in St.Petersburg, Russia as Navigational Officer, been working onboard and left the maritime industry to pursue a career as a Python developer.
 
 
-<!-- Job status: **Open for hire** (**[My CV](https://www.linkedin.com/in/dreu007/)**) -->
+Job status: **Open for hire** (**[My CV](https://www.linkedin.com/in/dreu007/)**)
 #### Employment:
-* [Trigger Systems](https://trigger.systems/) - Software Developer (2024 - Present)
+* Private Project - Lead developer (2026 - Present)
+* [Trigger Systems](https://trigger.systems/) - Software Developer (2024 - 2026)
 
 
 #### Education:
