@@ -66,6 +66,8 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C670%20hrs%2028%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -87,7 +89,7 @@ WebApp                   0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/01/2026 10:02:47 UTC
+ Last Updated on 11/01/2026 18:51:49 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
