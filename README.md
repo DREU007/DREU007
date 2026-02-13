@@ -66,27 +66,28 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C728%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C729%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 51 mins       ███████████████████░░░░░░   75.51 % 
-HTML                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-shell script             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-log                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Python                   8 hrs 33 mins       █████████████████░░░░░░░░   67.91 % 
+HTML                     2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+shell script             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+log                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🐱‍💻 Projects: 
-nenorma                  7 hrs 46 mins       █████████████████████░░░░   85.56 % 
-Unknown Project          1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+nenorma                  11 hrs 15 mins      ██████████████████████░░░   89.39 % 
+Unknown Project          1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+rnd                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 
- Last Updated on 12/02/2026 19:33:39 UTC
+ Last Updated on 13/02/2026 19:26:05 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
