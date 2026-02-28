@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C761%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C761%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -74,21 +74,21 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 18 mins       ███████████████░░░░░░░░░░   59.77 % 
-HTML                     2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Docker                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-shell script             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Python                   4 hrs 23 mins       █████████████░░░░░░░░░░░░   53.38 % 
+HTML                     1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Docker                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+shell script             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🐱‍💻 Projects: 
-nenorma                  10 hrs 15 mins      ████████████████████████░   97.13 % 
-rnd                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+nenorma                  7 hrs 56 mins       ████████████████████████░   96.32 % 
+rnd                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 nenorma_v0               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 27/02/2026 19:10:58 UTC
+ Last Updated on 28/02/2026 18:56:27 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
