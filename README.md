@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C772%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C773%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,20 +74,20 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 59 mins       █████████████████████░░░░   84.11 % 
-HTML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-shell script             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Python                   5 hrs 21 mins       ███████████████████░░░░░░   76.07 % 
+HTML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+shell script             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🐱‍💻 Projects: 
-nenorma                  10 hrs 6 mins       ████████████████████████░   94.62 % 
-Unknown Project          33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-rnd                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+nenorma                  6 hrs 26 mins       ███████████████████████░░   91.42 % 
+Unknown Project          35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+rnd                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 
- Last Updated on 08/03/2026 18:58:44 UTC
+ Last Updated on 09/03/2026 19:23:36 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
