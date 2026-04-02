@@ -74,18 +74,18 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-HTML                     11 hrs 34 mins      █████████████░░░░░░░░░░░░   53.56 % 
-Python                   5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-CSS                      3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-jinja2                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+HTML                     11 hrs 32 mins      ████████████████░░░░░░░░░   62.29 % 
+CSS                      3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Python                   2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+jinja2                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🐱‍💻 Projects: 
-nenorma                  21 hrs 37 mins      █████████████████████████   100.00 % 
+nenorma                  18 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/04/2026 19:38:13 UTC
+ Last Updated on 02/04/2026 19:30:29 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
