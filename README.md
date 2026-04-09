@@ -68,25 +68,25 @@ https://badges.pages.dev/
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C834%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 15 mins       ████████████████████░░░░░   81.57 % 
-HTML                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-shell script             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Python                   14 hrs 34 mins      ██████████████████████░░░   87.18 % 
+HTML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+shell script             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🐱‍💻 Projects: 
-nenorma                  7 hrs 51 mins       █████████████████░░░░░░░░   69.19 % 
-Unknown Project          3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.81 % 
+nenorma                  13 hrs 13 mins      ████████████████████░░░░░   79.09 % 
+Unknown Project          3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
 ```
 
 
- Last Updated on 08/04/2026 19:47:27 UTC
+ Last Updated on 09/04/2026 19:45:44 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
