@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C846%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C852%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -74,22 +74,22 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 31 mins      ██████████████████░░░░░░░   71.86 % 
-HTML                     3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Docker                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Python                   13 hrs 4 mins       ████████████████░░░░░░░░░   63.58 % 
+HTML                     5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+jinja2                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🐱‍💻 Projects: 
-nenorma                  17 hrs 59 mins      ██████████████████████░░░   89.00 % 
-py-utils                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+nenorma                  18 hrs 20 mins      ██████████████████████░░░   89.19 % 
+py-utils                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 my-service               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 remote-tracker           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 12/04/2026 19:23:04 UTC
+ Last Updated on 13/04/2026 19:49:49 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
