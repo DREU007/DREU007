@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C855%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C861%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -74,22 +74,22 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   13 hrs 47 mins      ████████████████░░░░░░░░░   63.40 % 
-HTML                     5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-jinja2                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Python                   11 hrs 43 mins      ██████████████░░░░░░░░░░░   57.69 % 
+HTML                     6 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.02 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+jinja2                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🐱‍💻 Projects: 
-nenorma                  19 hrs 31 mins      ██████████████████████░░░   89.73 % 
-py-utils                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-my-service               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-remote-tracker           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+nenorma                  18 hrs 5 mins       ██████████████████████░░░   89.01 % 
+py-utils                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+my-service               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+remote-tracker           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 16/04/2026 19:45:46 UTC
+ Last Updated on 17/04/2026 19:39:18 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
