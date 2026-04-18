@@ -66,30 +66,26 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C861%20hrs%2014%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 43 mins      ██████████████░░░░░░░░░░░   57.69 % 
-HTML                     6 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.02 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-jinja2                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Python                   9 hrs 18 mins       ███████████░░░░░░░░░░░░░░   45.85 % 
+HTML                     8 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.43 % 
+CSS                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+jinja2                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+git ignore               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🐱‍💻 Projects: 
-nenorma                  18 hrs 5 mins       ██████████████████████░░░   89.01 % 
-py-utils                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+nenorma                  20 hrs 11 mins      █████████████████████████   99.44 % 
 my-service               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-remote-tracker           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
- Last Updated on 17/04/2026 19:39:18 UTC
+ Last Updated on 18/04/2026 19:24:49 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
