@@ -66,26 +66,28 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C867%20hrs%2058%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 27 mins       █████████████░░░░░░░░░░░░   53.24 % 
-HTML                     5 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.06 % 
-CSS                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-jinja2                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Python                   8 hrs 19 mins       ███████████████░░░░░░░░░░   60.07 % 
+HTML                     3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+CSS                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+jinja2                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🐱‍💻 Projects: 
-nenorma                  15 hrs 44 mins      █████████████████████████   99.09 % 
-rockbox_theme_viewer     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+nenorma                  13 hrs 43 mins      █████████████████████████   98.95 % 
+rockbox_theme_viewer     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 
- Last Updated on 19/04/2026 19:24:51 UTC
+ Last Updated on 20/04/2026 19:40:56 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
