@@ -74,20 +74,20 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 19 mins       ███████████████░░░░░░░░░░   60.07 % 
-HTML                     3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-CSS                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-jinja2                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Python                   10 hrs 50 mins      ████████████████░░░░░░░░░   63.95 % 
+HTML                     4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+CSS                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-nenorma                  13 hrs 43 mins      █████████████████████████   98.95 % 
-rockbox_theme_viewer     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+nenorma                  16 hrs 45 mins      █████████████████████████   98.89 % 
+rockbox_theme_viewer     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 
- Last Updated on 20/04/2026 19:40:56 UTC
+ Last Updated on 21/04/2026 19:45:59 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
