@@ -74,19 +74,19 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 19 mins       █████████████████░░░░░░░░   69.51 % 
-HTML                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-jinja2                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-shell script             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python                   3 hrs 14 mins       █████████████████░░░░░░░░   68.69 % 
+HTML                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+jinja2                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+shell script             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-nenorma                  4 hrs 46 mins       █████████████████████████   99.99 % 
+nenorma                  4 hrs 43 mins       █████████████████████████   99.99 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 02/05/2026 19:35:30 UTC
+ Last Updated on 03/05/2026 19:34:17 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
