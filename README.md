@@ -66,24 +66,12 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C905%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Python                   3 hrs 47 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-nenorma                  2 hrs 22 mins       ████████████████░░░░░░░░░   62.45 % 
-llm                      1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.61 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-```
-
-
- Last Updated on 20/05/2026 20:35:16 UTC
+ Last Updated on 21/05/2026 20:21:57 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
