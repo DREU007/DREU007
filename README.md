@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C930%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C930%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,19 +74,19 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 33 mins       ██████████████░░░░░░░░░░░   54.87 % 
-HTML                     2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-shell script             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Python                   6 hrs 18 mins       █████████████░░░░░░░░░░░░   52.36 % 
+HTML                     2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+shell script             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🐱‍💻 Projects: 
-nenorma                  8 hrs 37 mins       ██████████████████░░░░░░░   72.24 % 
-rnd                      3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+nenorma                  8 hrs 43 mins       ██████████████████░░░░░░░   72.46 % 
+rnd                      3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
 ```
 
 
- Last Updated on 03/06/2026 21:35:29 UTC
+ Last Updated on 04/06/2026 20:33:10 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
