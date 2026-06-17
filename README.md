@@ -74,20 +74,20 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 2 mins        ███████████████░░░░░░░░░░   60.13 % 
-HTML                     2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-YAML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Docker                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Python                   5 hrs 40 mins       █████████████░░░░░░░░░░░░   53.01 % 
+HTML                     2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+YAML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Docker                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🐱‍💻 Projects: 
-rnd                      11 hrs 8 mins       █████████████████████░░░░   83.30 % 
-nenorma                  2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+rnd                      8 hrs 32 mins       ████████████████████░░░░░   79.84 % 
+nenorma                  2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 
- Last Updated on 16/06/2026 21:29:14 UTC
+ Last Updated on 17/06/2026 20:34:46 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
