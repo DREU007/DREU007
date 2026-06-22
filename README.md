@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C953%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C953%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,21 +74,21 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.33 % 
-HTML                     3 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.31 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-jinja2                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-shell script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+HTML                     3 hrs 55 mins       ██████████████░░░░░░░░░░░   57.26 % 
+Python                   2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.51 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+jinja2                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-rnd                      7 hrs 30 mins       ████████████████████████░   97.13 % 
-irrigation-server-revobot10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-nenorma                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-mqtt__python             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+rnd                      6 hrs 37 mins       ████████████████████████░   96.79 % 
+irrigation-server-revobot10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+nenorma                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+mqtt__python             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 21/06/2026 20:13:37 UTC
+ Last Updated on 22/06/2026 21:20:28 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
