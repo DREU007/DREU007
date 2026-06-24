@@ -74,21 +74,21 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-HTML                     3 hrs 55 mins       ██████████████░░░░░░░░░░░   57.26 % 
-Python                   2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.51 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-jinja2                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+HTML                     3 hrs 55 mins       ██████████████░░░░░░░░░░░   56.10 % 
+Python                   2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+jinja2                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🐱‍💻 Projects: 
-rnd                      6 hrs 37 mins       ████████████████████████░   96.79 % 
-irrigation-server-revobot10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+rnd                      6 hrs 46 mins       ████████████████████████░   96.86 % 
+irrigation-server-revobot10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 nenorma                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 mqtt__python             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 23/06/2026 20:35:06 UTC
+ Last Updated on 24/06/2026 20:19:10 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
