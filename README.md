@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C956%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C956%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,22 +74,22 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 1 min         ██████████████░░░░░░░░░░░   57.86 % 
-HTML                     1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   32.84 % 
-Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-jinja2                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Python                   2 hrs 57 mins       ████████████████░░░░░░░░░   64.27 % 
+HTML                     1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+jinja2                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-rnd                      4 hrs 49 mins       ███████████████████████░░   92.28 % 
-irrigation-server-revobot13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-revobot-lora-server      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-mqtt__python             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-nenorma                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+rnd                      4 hrs 1 min         ██████████████████████░░░   87.18 % 
+revobot-lora-server      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+irrigation-server-revobot17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+mqtt__python             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+nenorma                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 26/06/2026 20:19:09 UTC
+ Last Updated on 27/06/2026 19:53:44 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
