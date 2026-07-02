@@ -66,30 +66,29 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C961%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C961%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 49 mins       ████████████████████████░   94.22 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-jinja2                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-shell script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Python                   4 hrs 53 mins       ████████████████████████░   94.57 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+shell script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-rnd                      5 hrs 30 mins       ██████████████████████░░░   88.87 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-revobot-lora-server      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-irrigation-server-revobot6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-nenorma                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+rnd                      4 hrs 41 mins       ███████████████████████░░   90.82 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+revobot-lora-server      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+irrigation-server-revobot4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 
- Last Updated on 01/07/2026 20:26:02 UTC
+ Last Updated on 02/07/2026 20:03:43 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
