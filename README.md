@@ -68,27 +68,26 @@ https://badges.pages.dev/
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C961%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 23 mins       ████████████████████████░   94.00 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-shell script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   3 hrs 45 mins       ███████████████████████░░   90.64 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+shell script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-rnd                      4 hrs 11 mins       ██████████████████████░░░   89.84 % 
-Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-revobot-lora-server      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-irrigation-server-revobot4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+rnd                      3 hrs 38 mins       ██████████████████████░░░   87.82 % 
+Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+nenorma                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 ```
 
 
- Last Updated on 03/07/2026 19:58:52 UTC
+ Last Updated on 04/07/2026 19:46:25 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
