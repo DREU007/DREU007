@@ -74,20 +74,20 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   27 mins             ████████████████████░░░░░   78.25 % 
-HTML                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Python                   19 mins             ██████████████░░░░░░░░░░░   54.40 % 
+Other                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+HTML                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
 shell script             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-nenorma                  22 mins             ████████████████░░░░░░░░░   64.78 % 
-rnd                      12 mins             █████████░░░░░░░░░░░░░░░░   34.79 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+nenorma                  22 mins             ████████████████░░░░░░░░░   64.81 % 
+Unknown Project          8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+rnd                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 ```
 
 
- Last Updated on 12/07/2026 19:41:06 UTC
+ Last Updated on 13/07/2026 19:59:51 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
