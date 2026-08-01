@@ -76,11 +76,13 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 16 mins        ███████████████████████░░   93.93 % 
-CSV                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+pico8                    1 hr 18 mins        ████████████████████████░   97.62 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-nenorma                  1 hr 21 mins        █████████████████████████   100.00 % 
+Unknown Project          1 hr 20 mins        █████████████████████████   99.94 % 
+nenorma                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +92,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/07/2026 20:03:50 UTC
+ Last Updated on 01/08/2026 19:44:53 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
