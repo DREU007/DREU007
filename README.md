@@ -66,10 +66,36 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C878%20hrs%2011%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2015%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 07/08/2026 00:24:53 UTC
+```text
+💬 Programming Languages: 
+pico8                    1 hr 19 mins        ████████████████░░░░░░░░░   62.81 % 
+Other                    43 mins             █████████░░░░░░░░░░░░░░░░   34.54 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+shell script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🐱‍💻 Projects: 
+Unknown Project          2 hrs 3 mins        ████████████████████████░   97.36 % 
+nenorma                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+rnd                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 07/08/2026 19:31:52 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
