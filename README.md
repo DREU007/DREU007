@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C890%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2015%20mins-blue?style=flat)
 
@@ -76,16 +76,15 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 13 mins       ██████████████████░░░░░░░   72.84 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Python                   5 hrs 50 mins       ████████████████████░░░░░   80.23 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🐱‍💻 Projects: 
-nenorma                  7 hrs 42 mins       ███████████████████████░░   90.13 % 
-Unknown Project          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-rnd                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+nenorma                  6 hrs 35 mins       ███████████████████████░░   90.62 % 
+Unknown Project          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +94,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 21/08/2026 19:07:10 UTC
+ Last Updated on 22/08/2026 18:58:57 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
