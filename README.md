@@ -76,15 +76,15 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 50 mins       ████████████████████░░░░░   80.23 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Python                   5 hrs 30 mins       ███████████████████░░░░░░   76.93 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🐱‍💻 Projects: 
-nenorma                  6 hrs 35 mins       ███████████████████████░░   90.62 % 
-Unknown Project          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+nenorma                  6 hrs 28 mins       ███████████████████████░░   90.49 % 
+Unknown Project          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +94,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 22/08/2026 18:58:57 UTC
+ Last Updated on 23/08/2026 18:58:05 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
