@@ -76,10 +76,15 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-sshconfig                4 mins              █████████████████████████   100.00 % 
+Python                   2 hrs 3 mins        ██████████████████████░░░   89.63 % 
+Public Key               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+sshconfig                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+make                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              █████████████████████████   100.00 % 
+nenorma                  1 hr 51 mins        ████████████████████░░░░░   80.69 % 
+Unknown Project          26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,7 +94,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/09/2026 21:14:52 UTC
+ Last Updated on 02/09/2026 21:12:41 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
