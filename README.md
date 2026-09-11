@@ -76,18 +76,18 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Rust                     1 hr 5 mins         ████████████░░░░░░░░░░░░░   49.50 % 
-Caddyfile                26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Python                   2 hrs 41 mins       █████████████░░░░░░░░░░░░   51.45 % 
+Rust                     1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Caddyfile                26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🐱‍💻 Projects: 
-wall                     44 mins             ████████░░░░░░░░░░░░░░░░░   33.75 % 
-values                   28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-functions                19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-hello                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-rnd                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+nenorma                  3 hrs 1 min         ██████████████░░░░░░░░░░░   57.87 % 
+wall                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+values                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+functions                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+hello                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/09/2026 21:06:56 UTC
+ Last Updated on 11/09/2026 21:11:38 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
