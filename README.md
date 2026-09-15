@@ -66,27 +66,26 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C905%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C910%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 50 mins      ███████████████████████░░   90.34 % 
-Rust                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-jsonc                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-shell script             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Python                   10 hrs 50 mins      ███████████████████████░░   93.45 % 
+jsonc                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Rust                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+shell script             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🐱‍💻 Projects: 
-nenorma                  11 hrs 21 mins      ████████████████████████░   94.59 % 
-functions                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-values                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+nenorma                  11 hrs 21 mins      ████████████████████████░   97.85 % 
+functions                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,7 +95,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/09/2026 21:58:18 UTC
+ Last Updated on 15/09/2026 21:40:39 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
