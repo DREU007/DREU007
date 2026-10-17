@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C941%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C943%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2015%20mins-blue?style=flat)
 
@@ -76,15 +76,15 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 12 mins       ██████████████████████░░░   88.35 % 
-shell script             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-gitignore                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Docker                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   6 hrs 8 mins        ██████████████████████░░░   88.17 % 
+gitignore                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+shell script             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🐱‍💻 Projects: 
-nenorma                  7 hrs 48 mins       ████████████████████████░   95.73 % 
-Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+nenorma                  6 hrs 40 mins       ████████████████████████░   95.80 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +94,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/10/2026 21:35:49 UTC
+ Last Updated on 17/10/2026 20:51:34 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
