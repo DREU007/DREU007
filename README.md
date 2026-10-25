@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C947%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C950%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2015%20mins-blue?style=flat)
 
@@ -76,16 +76,16 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 35 mins       ███████████████████░░░░░░   75.08 % 
-HTML                     1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   6 hrs 2 mins        █████████████████░░░░░░░░   69.68 % 
+HTML                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-nenorma                  7 hrs 18 mins       █████████████████████████   98.16 % 
-remote-tracker           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+nenorma                  8 hrs 32 mins       █████████████████████████   98.42 % 
+remote-tracker           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +95,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 24/10/2026 21:06:37 UTC
+ Last Updated on 25/10/2026 21:08:54 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
