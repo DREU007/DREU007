@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C950%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C951%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2015%20mins-blue?style=flat)
 
@@ -76,26 +76,39 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 2 mins        █████████████████░░░░░░░░   69.68 % 
-HTML                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   5 hrs 32 mins       ████████████████████░░░░░   78.52 % 
+HTML                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+jinja2                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-nenorma                  8 hrs 32 mins       █████████████████████████   98.42 % 
-remote-tracker           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+nenorma                  7 hrs               █████████████████████████   99.50 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 mins (0.67%)
+
+✍️ 0 lines written by AI, 682 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 45 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 21:08:54 UTC
+ Last Updated on 26/10/2026 22:50:05 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
