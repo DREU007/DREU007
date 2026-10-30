@@ -66,7 +66,7 @@ https://badges.pages.dev/
 #### Stats:
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C954%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C955%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2018%20mins-blue?style=flat)
 
@@ -76,23 +76,23 @@ https://badges.pages.dev/
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 29 mins       ████████████████████░░░░░   81.10 % 
-HTML                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-jinja2                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   11 hrs 12 mins      █████████████████████░░░░   84.00 % 
+HTML                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-nenorma                  7 hrs 58 mins       █████████████████████████   99.56 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+nenorma                  10 hrs              ███████████████████░░░░░░   75.02 % 
+Unknown Project          3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (0.59%)
+⏱ AI Coding Time: 2 mins (0.36%)
 
-✍️ 0 lines written by AI, 735 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 933 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -108,7 +108,7 @@ Unknown Project          2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/10/2026 22:55:05 UTC
+ Last Updated on 30/10/2026 22:35:12 UTC
 <!--END_SECTION:waka-->
 ![DREU007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DREU007&show_icons=true&theme=transparent)
 
